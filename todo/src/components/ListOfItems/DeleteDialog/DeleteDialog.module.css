@@ -1,0 +1,22 @@
+.dialog button {
+  font-size: 1.5rem;
+  padding: 0.6rem;
+  font-weight: bold;
+  color: rgb(17, 17, 46);
+  text-transform: capitalize;
+  font-weight: bold;
+}
+.dialog button:hover {
+  background-color: rgb(231, 226, 226);
+}
+
+.dialog h2 {
+  font-size: 1.9rem;
+  color: rgb(222, 98, 9);
+}
+
+.dialog p {
+  font-size: 1.6rem;
+  text-transform: capitalize;
+  color: black;
+}

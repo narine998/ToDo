@@ -1,0 +1,54 @@
+.listItem span {
+  font-size: 1.7rem;
+  text-transform: capitalize;
+  color: black;
+}
+
+.listItem svg,
+.listItem input {
+  font-size: 2.5rem;
+  color: rgb(25, 25, 91);
+}
+
+.title {
+  font-size: 2rem;
+  color: rgb(25, 25, 91);
+  padding: 0.5rem;
+  margin: 0;
+}
+
+.description {
+  padding: 1rem;
+  font-size: 1.6rem;
+  color: rgb(30, 29, 29);
+  width: 60%;
+  box-shadow: 0 0 1rem rgb(25, 25, 91);
+  background-color: white;
+}
+
+.listItem .deadline {
+  font-size: 1.4rem;
+}
+
+.listItem .deadline span,
+.listItem .status {
+  color: rgb(222, 98, 9);
+  font-size: 1.4rem;
+}
+
+.box {
+  border: 2px solid rgb(25, 25, 91);
+  border-radius: 1rem;
+  background-color: rgb(211, 211, 235);
+  padding: 1rem 1.5rem;
+  width: 90%;
+}
+
+.listItem .green {
+  font-size: 1.4rem;
+  color: green;
+}
+.listItem .black {
+  font-size: 1.5rem;
+  color: black;
+}

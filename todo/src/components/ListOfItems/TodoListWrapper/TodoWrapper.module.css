@@ -1,0 +1,16 @@
+.heading {
+  color: rgb(222, 98, 9);
+  font-size: 2.4rem;
+  padding: 0.5rem;
+  width: 20rem;
+  margin: 0;
+}
+
+.summary svg {
+  font-size: 4rem;
+  color: rgb(222, 98, 9);
+}
+
+.container {
+  padding: 1rem;
+}

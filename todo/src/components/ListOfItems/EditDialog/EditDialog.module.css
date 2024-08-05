@@ -1,0 +1,29 @@
+.form form {
+  width: 60%;
+  padding: 20px;
+}
+
+.form button {
+  font-size: 1.4rem;
+  padding: 0.6rem 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(25, 25, 91);
+}
+
+.form button:hover {
+  background-color: rgb(13, 13, 49);
+}
+.form input,
+.form textarea {
+  font-size: 1.6rem;
+}
+.form label {
+  font-size: 1.5rem;
+}
+
+.dialogTitle {
+  font-size: 2rem;
+  color: rgb(222, 98, 9);
+  font-weight: bold;
+}
